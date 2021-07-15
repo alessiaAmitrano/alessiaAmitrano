@@ -12,7 +12,7 @@ I am a front-end web developer from Italy living in London. I specialise in fron
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/alessia-amitrano-they-them-49bba553/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@alessia.amitranobo)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style=for-the-badge" />](alessia.amitranobo@gmail.com)
-
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-fuchsia?logo=instagram&logoColor=black&style=for-the-badge" />](https://www.instagram.com/alleminiworld/)
 <br>
 
 ## Expertise
