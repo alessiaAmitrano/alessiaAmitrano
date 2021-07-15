@@ -33,6 +33,10 @@ I am a front-end web developer from Italy living in London. I specialise in fron
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [3 Chrome Extensions to Give GitHub Superpowers](https://betterprogramming.pub/3-chrome-extensions-to-give-github-superpowers-e993f8703ad?source=rss-aa85ca5cd3ee------2)
+- [How to Display Colorful Tweets in Your Angular App](https://betterprogramming.pub/how-to-display-colorful-tweets-in-your-angular-app-4ee61ff59125?source=rss-aa85ca5cd3ee------2)
+- [What Nobody Told You About Being a Great Developer](https://betterprogramming.pub/what-nobody-told-you-about-being-a-great-developer-f872b93f372e?source=rss-aa85ca5cd3ee------2)
+- [Create a Countdown With Observables](https://betterprogramming.pub/create-a-countdown-with-observables-ded4139fac1f?source=rss-aa85ca5cd3ee------2)
+- [A New Way of Dispatching Actions With Ngxs for Angular](https://betterprogramming.pub/a-new-way-of-dispatching-actions-with-ngxs-for-angular-7541f0adb812?source=rss-aa85ca5cd3ee------2)
 <!-- BLOG-POST-LIST:END -->
 
