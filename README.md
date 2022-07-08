@@ -1,10 +1,10 @@
 # Hi, I am Alessia Amitrano
-I am a front-end web developer from Italy living in London. I specialise in front end frameworks and animations.
+I am a front-end web developer from Italy living in London. I specialise in front end development and DevOps.
 
-- 🔭 I’m currently working on a bunch of different projects in Angular and Vanilla Javascript
+- 🔭 I’m currently working on a bunch of different projects in React and always trying to improve the team process!
 - 🌱 I’m currently perfecting my knowledge of React and Go
 - 😄 Pronouns: They/Them
-- ⚡ Fun fact: I am a vegan and I like to paint fantasy miniatures, play videogames and Dungeons&Dragons in my spare time!
+- ⚡ Fun fact: I am a vegan and I like to paint scale models, play videogames and Dungeons&Dragons in my spare time!
 
 <br>
 
