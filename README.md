@@ -33,10 +33,10 @@ I am a front-end web developer from Italy living in London. I specialise in fron
 
 ## Some of the Websites I've built
 <!-- WEB-SITES-LIST:START -->
-- [Financial Times Strategies] (https://www.ftstrategies.com/en-gb/)
-- [FTxING] (https://ing.ft.com/)
-- [Sony Music Mishaal Friendmix] (https://friendmix.officialmishaal.com/#/)
-- [Google Home] (https://home.google.com/)
+- [Financial Times Strategies](https://www.ftstrategies.com/en-gb/)
+- [FTxING](https://ing.ft.com/)
+- [Sony Music Mishaal Friendmix](https://friendmix.officialmishaal.com/#/)
+- [Google Home](https://home.google.com/)
 <!-- WEB-SITES-LIST:END -->
 
 ## Blog posts
