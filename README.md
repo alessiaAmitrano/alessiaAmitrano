@@ -6,8 +6,6 @@ I am a front-end web developer from Italy living in London. I specialise in fron
 - 😄 Pronouns: They/Them
 - ⚡ Fun facts: I am vegan, I like to paint scale models and play videogames and Dungeons&Dragons in my spare time!
 
-<br>
-
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/alessia-amitrano-they-them-49bba553/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@alessia.amitranobo)
@@ -28,7 +26,7 @@ I am a front-end web developer from Italy living in London. I specialise in fron
 <img align="left" alt="sass" src="https://img.shields.io/badge/sass%20-pink.svg?style=for-the-badge&logo=sass&logoColor=black"/>
 <img align="left" alt="css" src="https://img.shields.io/badge/css%20-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=%2361DAFB"/>
 
-<br>
+( It makes me laugh so much that the CSS buttons are not aligned properly, but I cannot manage to fix it! :joy:)
 
 ## Here is a list of the articles I have worked on at The Guardian
 - [Alessia Amitrano| The Guardian](https://www.theguardian.com/profile/alessia-amitrano)
