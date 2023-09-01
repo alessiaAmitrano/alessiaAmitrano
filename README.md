@@ -31,6 +31,9 @@ I am a front-end web developer from Italy living in London. I specialise in fron
 
 <br>
 
+## Here is a list of the articles I have worked on at The Guardian
+- [Alessia Amitrano| The Guardian](https://www.theguardian.com/profile/alessia-amitrano)
+
 ## Some of the Websites I've built
 <!-- WEB-SITES-LIST:START -->
 - [Financial Times Strategies](https://www.ftstrategies.com/en-gb/)
