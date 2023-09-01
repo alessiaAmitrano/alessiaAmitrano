@@ -21,12 +21,10 @@ I am a front-end web developer from Italy living in London. I specialise in fron
 <img align="left" alt="redux" src="https://img.shields.io/badge/redux-purple.svg?style=for-the-badge&logo=redux&logoColor=white" />
 <img align="left" alt="jinja" src="https://img.shields.io/badge/Jinja%20-%23232F3E?logo=jinja&logoColor=white&style=for-the-badge" />
 <img align="left" alt="html" src="https://img.shields.io/badge/html5%20-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%db5224" />
-<br>
-<br>
 <img align="left" alt="sass" src="https://img.shields.io/badge/sass%20-pink.svg?style=for-the-badge&logo=sass&logoColor=black"/>
 <img align="left" alt="css" src="https://img.shields.io/badge/css%20-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=%2361DAFB"/>
-
-( It makes me laugh so much that the CSS buttons are not aligned properly, but I cannot manage to fix it! :joy:)
+<br>
+<br>
 
 ## Here is a list of the articles I have worked on at The Guardian
 - [Alessia Amitrano| The Guardian](https://www.theguardian.com/profile/alessia-amitrano)
