@@ -1,17 +1,16 @@
 # Hi, I am Alessia Amitrano
 I am a front-end web developer from Italy living in London. I specialise in front end development and DevOps.
 
-- 🔭 I’m currently working on a bunch of different projects in React and always trying to improve the team process!
-- 🌱 I’m currently perfecting my knowledge of React and Go
+- 🔭 I’m currently working on a bunch of different interactive articles at The Guardian. Also, I am working on a CMS in React.
+- 🌱 I’m currently studying Svelte and Astro
 - 😄 Pronouns: They/Them
-- ⚡ Fun fact: I am a vegan and I like to paint scale models, play videogames and Dungeons&Dragons in my spare time!
+- ⚡ Fun facts: I am vegan, I like to paint scale models and play videogames and Dungeons&Dragons in my spare time!
 
 <br>
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/alessia-amitrano-they-them-49bba553/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@alessia.amitranobo)
-[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style=for-the-badge" />](alessia.amitranobo@gmail.com)
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-fuchsia?logo=instagram&logoColor=black&style=for-the-badge" />](https://www.instagram.com/alleminiworld/)
 <br>
 
